@@ -5,3 +5,6 @@
 
 
 #M3 please create function for multiplication
+def mul(a,b)
+c=a*b
+return c
